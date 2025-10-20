@@ -1,0 +1,31 @@
+One Shot :
+I liked the movie: Positive
+It was a worst movie: Negative
+I Liked the action in movie:  
+
+
+Few Shot :
+Prompt: Predict 3 emojis as a response to a text message.
+The output should only include emojis.
+
+input: It was a mind blowing movie
+output: 🤯,🎉,🎥
+
+input: You are my elder brother, i respect you a lot
+output: 🙏,🤗,🤴
+
+input: Your car is the reason of my saddness
+output: 😞,🚗,😢
+
+input: I am breaking up with you, bye
+output: 
+
+
+Chain of Thoughts :
+I bought 20 oranges from shop. gave 2 to my mom and i eat 4.But my mom didn't liked those oranges so she gave back those 2 oranges  to me.
+How many oranges was I left with?
+
+Let's think step by step.
+
+
+Prompt Chaining :
